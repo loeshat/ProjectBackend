@@ -1,0 +1,24 @@
+Meeting Minutes for group Camel!
+
+Date: 1/03/2022
+Time: 1:00 pm
+Location: Microsoft Teams
+Purpose: Catch up on everyone’s progress
+Present: Samuel Bell, Jerry Li, Leo Shi, Jacqueline Chen, 
+Apologies: Tetian 
+
+Topics: 
+ - Discussed confusions about Channels_list_v1 function returns
+ - Discussed Leo’s channel_join_v1 function and what he has done
+ - Discussed the leaderboard
+ - Discussed what everyone between our last meeting and the current meeting and set up actionables that would be done by our next meeting. 
+
+Agenda: 
+ - Ask the tutor about channels_list and channels_listall differences on Thursday.
+
+Actionables:
+ - Leo Shi will be finalise channel_join_v1 and start on channel_messages_v1 by Thursday.
+ - Samuel Bell will be review the existing code for style / documentation issues and create a separate branch and push it by Thursday.
+ - Jacqueline Chen will be fixing my channels_list_v1 function and completing channel_details_v1 by Thursday.
+ - Jerry Li will be finalising implementation of channels_listall_v1 by Thursday and make a start on channel_invite_v1 by Friday.
+ - Tetian Madfouni will be examining style and code from merge requests and think of edge cases for his tests which he will complete by Thursday. 

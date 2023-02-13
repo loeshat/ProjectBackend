@@ -1,0 +1,14 @@
+Date: 17/03/2022
+Time: 2:45 pm
+Location: Oboe Lab room
+Purpose: Catch up on everyone’s progress
+Present: Samuel Bell, Jerry Li, Leo Shi, Jacqueline Chen, Tetian Madfouni
+Apologies: None
+
+Topics: 
+Discussed how we would build our http routes and format them in a more readable fashion
+Discussed how we would return tokens and check for the authentication of the user
+
+Actionables:
+Leo Shi, Jerry Li, Tetian Madfouni, Jacqueline Chen will finish off their functions as soon as possible so that style and coverage can be tested. 
+Samuel Bell will finish off auth.v2 functions so that others are able to use that to test their own functions.

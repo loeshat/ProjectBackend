@@ -1,0 +1,23 @@
+Date: 22/3/2022
+Attendees: Jerry, Leo, Jacqueline, Samuel
+Apologies: Tetian
+Time and place: 1pm on Microsoft Teams
+
+Agenda: Confirm priorities and coordinate between team to raise any blockers if necessary
+
+Discussion:
+
+leo's merge request just needs a small fix and then can be approved
+
+jerry: finished channels_listall, will finish channel_invite today and the dms by friday night
+
+jac: just submitted merge request for channel_remove , only thing only left is channel_dm_create
+    add to datastore
+
+leo: fix channel join, started on messages , wrote most tests and looking to finish by thursday night
+    will be unavailable from fri-sun
+
+sam: finished all his functions, implemented persistance , will move is_valid_dictionary to tests rather
+    than source once everything is completed.
+
+Need to remove echo

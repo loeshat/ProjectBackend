@@ -1,0 +1,29 @@
+Meeting Minutes: 14th April 2022
+
+Present:
+-Leo Shi
+-Jacqueline Chen
+-Jerry Li
+-Tetian Madfouni
+-Samuel Bell
+
+
+Agenda:
+ - Samuel: How to test password reset functions? 
+	Simon - No need to do this unless for error codes, programmatically doing so would be white box
+ 
+ - Samuel: When image url is now present for profiles, do we strip the key/value pair from the dictionary to ensure that the tests are blackbox?
+	Simon - Yes, that would be one way of doing so
+ 
+ - Simon: How is the group going with the project?
+	Leo and Jacqueline: We have most things done bar the password resets and the  
+
+ - Simon: When are you planning to connect the frontend to backend to ensure that the functionality works?
+	Tetian and Samuel: Plan was to test the frontend continuously throughout and then the final one with the alwaysdata deployed version to verify the depoyment was successful.
+
+Actionables:
+
+ - Finish Standup (Jerry Li)
+ - Finish Requirements.pdf (Jacqueline, Leo and Samuel)
+ - Update deployment once code all done (Tetian)
+

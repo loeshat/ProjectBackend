@@ -1,0 +1,25 @@
+Meeting Minutes 10/3/2022: Project Check in for Iteration 1
+
+Present: Tetian Madfouni
+         Jacqueline Chen
+         Leo Shi
+         Jerry Li
+         Samuel Bell
+         Simon Haddad (Tutor)
+
+Apologies: None
+
+
+Agenda:
+- Project Check in for Iteration 1 (Simon)
+- Inconsistency between stubbed code and spec README.md file for iteration 1 (Samuel)
+
+Discussion:
+- Teams as the main communication messages
+- Stubbed code no longer relevant for the second iteration, spec is authoritative source
+- Syncronous meetings should be undertaken more frequently - minimum required is once per week
+
+
+Actionable Items:
+- More meetings completed syncronously 
+

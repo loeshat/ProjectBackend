@@ -1,0 +1,20 @@
+Meeting Minutes for group Camel!
+
+Date: 7/4/2022
+Time: 3:30 pm
+Location: on teams
+Purpose: meetup to discuss about progress
+Present: Tetian Madfouni, Samuel Bell, Leo Shi, Jacqueline Chen, Jerry Li
+Apologies: 
+
+Agenda topics:
+- None of us have done much coding on iteration 3 at the moment, caught up with other courses
+- Sam will do upload photo and password reset on the weekend and Monday, will set up the gmail for the email section, try and get it all done by Monday night
+- Tetian will do channel messages tonight or tomorrow, has had an assignment taking up his time, will get them done ASAP so that we can start on iteration 3 soon
+- Jac fixed up all of her errors from iteration 2
+- Leo and Jac will get started on the requirements (user stories, use cases, etc)
+
+Actionables:
+- Tetian: finish bug fixing from iteration2
+- Leo & Jac: get started on requirements document
+- Everyone: Get started on iteration 3 asap! :)

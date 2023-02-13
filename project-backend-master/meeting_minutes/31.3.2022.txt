@@ -1,0 +1,24 @@
+Meeting Minutes for group Camel!
+
+Date: 31/03/2022
+Time: 3:00 pm
+Location: In person during lab
+Purpose: Discuss issues in iteration 2
+Present: Tetian Madfouni, Samuel Bell, Leo Shi, Jacqueline Chen
+Apologies: Jerry Li
+
+Topics:
+- tokens persist throughout resets
+- We need approval on every merge request
+- Every issue has to have an assignment
+- Put any possible circular imports into other.py
+- Test names must be reflective of what the test is attempting
+- User_remove is too nested and needs to be fixed with relation to next point
+- Messages need to be implemented with IDs and this can be used in User_Remove to delete the messages.
+- Unnecessary comments above tests and in normal functions, code should be self-documenting
+
+Agenda:
+- Fixing all above issues before beginning iteration 3
+
+Actionables:
+- Create issues board for above issues and claim them accordingly
